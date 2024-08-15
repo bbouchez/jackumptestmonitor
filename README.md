@@ -1,5 +1,5 @@
 # jackumptestmonitor
-Universal MIDI Protocol monitor for JACK Audio Connection Kit
+Universal MIDI Packets monitor for JACK Audio Connection Kit
 
 This is a small demo application written to validate the capability of JACK Audio Connection Kit to support natively Universal MIDI Packets (UMP) including MIDI 2.0 packets.
 
